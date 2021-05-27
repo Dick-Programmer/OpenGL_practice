@@ -1,0 +1,4 @@
+﻿  Drawcubs.cpp
+D:\CS\Computer_Graphics\Computer_Graphics_Programmin_in_OpenGL_Using_C++\Drawcubs\Drawcubs\Drawcubs.cpp(79,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Drawcubs.vcxproj -> D:\CS\Computer_Graphics\Computer_Graphics_Programmin_in_OpenGL_Using_C++\Drawcubs\Debug\Drawcubs.exe
